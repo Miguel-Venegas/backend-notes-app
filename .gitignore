@@ -13,3 +13,9 @@ pnpm-debug.log*
 
 # macOS system files
 .DS_Store
+
+#mongo test script
+# Ignore Mongo test script
+mongo.js
+# Ignore any experimental scripts
+*.test.js
